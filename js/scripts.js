@@ -1,1 +1,1 @@
-// Empty JS for your own code to be here
+$("#div").css("border","1px #00800");
