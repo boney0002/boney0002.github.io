@@ -1,2 +1,4 @@
 # Empty CSS file for your own CSS
-#logo {width: 70px; height:70px;}
+body {
+    background-color: #B1ADA5
+}
