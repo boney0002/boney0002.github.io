@@ -1,1 +1,4 @@
-$("#div").css("border","1px #00800");
+$(function (){
+  $("#div").css("border","1px #00800");
+  
+});
